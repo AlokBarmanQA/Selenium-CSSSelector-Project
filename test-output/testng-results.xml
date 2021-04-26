@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61863" started-at="2021-04-26T13:35:00 EDT" finished-at="2021-04-26T13:36:02 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61863" started-at="2021-04-26T13:35:00 EDT" finished-at="2021-04-26T13:36:02 EDT">
+      <class name="blazemeter_tests.CSSSelector_class_Equal_value">
+        <test-method status="PASS" signature="setup()[pri:0, instance:blazemeter_tests.CSSSelector_class_Equal_value@385e9564]" name="setup" is-config="true" duration-ms="5539" started-at="2021-04-26T13:35:00 EDT" finished-at="2021-04-26T13:35:05 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="hubspot_Login_with_form_Test()[pri:1, instance:blazemeter_tests.CSSSelector_class_Equal_value@385e9564]" name="hubspot_Login_with_form_Test" duration-ms="47267" started-at="2021-04-26T13:35:05 EDT" finished-at="2021-04-26T13:35:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hubspot_Login_with_form_Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:blazemeter_tests.CSSSelector_class_Equal_value@385e9564]" name="tearDown" is-config="true" duration-ms="108" started-at="2021-04-26T13:36:02 EDT" finished-at="2021-04-26T13:36:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- blazemeter_tests.CSSSelector_class_Equal_value -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
